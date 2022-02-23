@@ -1,10 +1,10 @@
 [
   {
-    "name": "Trường đại học Y Hà Nội",
+    "names": [{"vi":"Trường đại học Y Hà Nội","en":"HaNoi Medical University"}],
     "url": "https://localhost:44326"
   },
   {
-    "name": "Trường đại học KTQD",
+    "names": {"vi":"Trường Đại học Kinh tế Quốc dân","en":"National Economics University"},
     "url": "https://localhost:44326"
   }
 ]
